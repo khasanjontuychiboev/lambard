@@ -1,0 +1,4 @@
+John 24 male xasan@gmail.com +998901232435,
+Joe 22 male xasan@gmail.com +998901232435,
+Julia 21 female xasan@gmail.com +998901232435,
+Maria 24 female xasan@gmail.com +998901232435,
