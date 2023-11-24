@@ -1,0 +1,4 @@
+Xasan, 24, xasan@gmail.com, 100.0;
+Xusan, 23, xusan@gmail.com, 200.0;
+Zuhra, 21, zuhra@gmail.com, 500.0;
+Fotima, 22, fotima@gmail.com, 800.0;
