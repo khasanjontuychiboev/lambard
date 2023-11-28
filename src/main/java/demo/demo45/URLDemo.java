@@ -5,7 +5,7 @@ import java.net.*;
 public class URLDemo {
     public static void main(String[] args) {
         try {
-            URL url = new URL("https://daryo.uz/2023/10/17/shu-tariqa-boy-berilgan-jannatni-qolga-kiritishga-urinishi-ornini-undan-butunlay-yuz-ogirish-egallab-qoya-qoladimashenka-romani-haqida");
+            URL url = new URL("https://daryo.uz/category/dunyo");
             System.out.println("Protocol: "+url.getProtocol());
             System.out.println("Host Name: "+url.getHost());
             System.out.println("Port Number: "+url.getPort());
